@@ -15,7 +15,7 @@ Item {
 
     color: "white"
     font {
-      family: "Roboto"
+      family: config.fontFamily
       pointSize: 20
     }
     text: realName
