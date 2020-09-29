@@ -130,7 +130,7 @@ Item {
 
       color: "white"
       font {
-        family: "FiraMono"
+        family: "Roboto"
         pointSize: 20
       }
       text: loginFrame.realName
@@ -160,7 +160,7 @@ Item {
     color: "white"
     font {
       pointSize: 10
-      family: "FiraMono"
+      family: "Roboto"
     }
 
     anchors {
@@ -213,7 +213,7 @@ Item {
       color: "white"
       font {
         pointSize: 14
-        family: "FiraMono"
+        family: "Roboto"
       }
       opacity: 0.3
     }
@@ -229,7 +229,7 @@ Item {
       }
       font {
         pointSize: 14
-        family: "FiraMono"
+        family: "Roboto"
         letterSpacing: 2
       }
       color: "white"

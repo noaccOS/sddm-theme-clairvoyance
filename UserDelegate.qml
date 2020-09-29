@@ -15,7 +15,7 @@ Item {
 
     color: "white"
     font {
-      family: "FiraMono"
+      family: "Roboto"
       pointSize: 20
     }
     text: realName
